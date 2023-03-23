@@ -1,0 +1,2 @@
+iframe{display:none}.page{display:grid;grid-template:auto/1fr 400px;grid-column-gap:20px;-webkit-column-gap:20px;column-gap:20px;min-height:100vh;background-color:#08042b}.page-content{padding:20px}.box{background-color:#76c5db}.sidebar{background-color:#1e1f28}.movies{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));grid-gap:20px;gap:20px}.card{background-color:#000;border-radius:1.25rem}.card-content{color:#fff}.card-image img{object-fit:contain}
+/*# sourceMappingURL=main.dcc4f5df.chunk.css.map */
